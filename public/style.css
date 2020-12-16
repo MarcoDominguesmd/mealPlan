@@ -163,7 +163,7 @@ a{
 .done{
   position: relative;
   float: right;
-  left: 220px;
+  right: 10px;
   top: -40px;
 }
 
